@@ -11,6 +11,7 @@
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100069665266570&mibextid=LQQJ4d**
 
 - ⚡ Fun fact **I Love games, cars, films and cooking**
+- - ⚡ Fun fact **I love to learn new things that can increase my knowledgeand be used in the future**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
