@@ -114,6 +114,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pappygio/pappygio/output/snake.svg" alt="Snake animation" />
 
 ###
