@@ -4,7 +4,7 @@
 <h3 align="center">Wanna be a pro coder</h3>
 
 <img align="right" alt="Coding" width = "400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pappygio&label=Profile%20views&color=0e75b6&style=flat" alt="pappygio" /> </p>
+
 
 - 🌱 I’m currently learning **C, HTML,CSS & more**
 
@@ -114,5 +114,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/pappygio/pappygio/output/snake.svg" alt="Snake animation" />
 
 ###
