@@ -5,57 +5,37 @@
 
 <img align="right" alt="Coding" width = "400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pappygio&label=lmao&color=0e75b6&style=plastic" alt="pappygio" /> </p>
 
 - 🌱 I’m currently learning **C, HTML,CSS & more**
+
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100069665266570&mibextid=LQQJ4d**
 
 - ⚡ Fun fact **I Love games, cars, films and cooking**
-- - ⚡ Fun fact **I love to learn new things that can increase my knowledgeand be used in the future**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/23252125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23252125" height="30" width="40" /></a>
 <a href="https://fb.com/stephen david gio reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stephen david gio reyes" height="30" width="40" /></a>
 <a href="https://instagram.com/giooink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giooink" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/papsgio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="papsgio" height="30" width="40" /></a>
 <a href="https://discord.gg/dapappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dapappy" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Currently learning and practicing this skills</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappygio&show_icons=true&theme=tokyonight&title_color=2a7f0b&text_color=000000&bg_color=da7734&cache_seconds=1800&locale=en&layout=compact" alt="pappygio" /></p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pappygio&show_icons=true&theme=dracula&locale=en" alt="pappygio" /></p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pappygio&theme=highcontrast" alt="pappygio" /></p>
 
 <br clear="both">
 
 <h2 align="center">Currently studying and practicing</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
 
 ###
 
@@ -116,15 +96,6 @@
 ###
 
 <p align="center">Learning and practicing applications for anything relationg to CS & other stuff</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pappygio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pappygio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
