@@ -99,9 +99,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://www.mkgifs.com/wp-content/uploads/2023/08/Cool-Car-Wallpapers-GIF.gif"  />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pappygio" alt="pappygio" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappygio&show_icons=true&locale=en&layout=compact" alt="pappygio" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pappygio&show_icons=true&locale=en" alt="pappygio" /></p>
+
 
 ###
 
