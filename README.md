@@ -1,7 +1,8 @@
 ### WAZZZUP!!!! 👋
 
 <h1 align="center">Hi 👋, I'm Stephen David Gio Reyes</h1>
-<h3 align="center">Wanna be a pro coder</h3>
+<h3 align="center">Vibe Coding as a side quest </h3>
+<h3 align="center">Former Computer Science Student now a Tourism Student In University of San Carlos </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pappygio&label=lmao&color=0e75b6&style=plastic" alt="pappygio" /> </p>
 
@@ -94,8 +95,17 @@
 </div>
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PappyGio&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=PappyGio&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PappyGio&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">Learning and practicing applications for anything relationg to CS & other stuff</p>
+
+
+---
+[![](https://komarev.com/ghpvc/?username=PappyGio&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
